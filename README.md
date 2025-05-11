@@ -1,16 +1,29 @@
-## Hi there 👋
+## Fernando Roque
 
-<!--
-**FernandoRoque91/FernandoRoque91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciências da Computação `**
 
-Here are some ideas to get you started:
+Tenho 18 anos e sou estudante do primeiro semestre de Ciência da Computação no CEUB. Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos conhecimentos que ampliem minha visão no setor. Procuro uma oportunidade de estágio que me permita aplicar na prática o que venho aprendendo, além de desenvolver novas competências e colaborar com projetos desafiadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/fernando-roque-25a518365/">
+        <img 
+            alt="LinkedIn" 
+            title="Perfil LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+        />
+    </a>
+    <a href="https://www.instagram.com/fndo_roq/">
+        <img 
+            alt="Instagram" 
+            title="Perfil instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
+        />
+</p>
+
+---
+
+
+
+
+<br/>
+<br/>
